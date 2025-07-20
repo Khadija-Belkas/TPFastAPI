@@ -1,0 +1,5 @@
+user_not_found='{"status": "fail", "reason": "user_not_found"}'
+error_user='{"status": "error", "reason": "db_error"}'
+user_inactive='{"status": "fail", "reason": "user_inactive"}'
+user_valid = '{"status": "success", "user_id": user["id"]}'
+#check_password='{"status": "fail", "reason": "wrong_password"}'
